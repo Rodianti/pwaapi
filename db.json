@@ -1,0 +1,23 @@
+{
+"products": [
+{"id":1,"name":"Red phalarope","category":"Purple"},
+{"id":2,"name":"Boubou, southern","category":"Orange"},
+{"id":3,"name":"Alligator, mississippi","category":"Crimson"},
+{"id":4,"name":"Raccoon, crab-eating","category":"Mauv"},
+{"id":5,"name":"Springbok","category":"Indigo"},
+{"id":6,"name":"Green-backed heron","category":"Red"},
+{"id":7,"name":"Red-billed hornbill","category":"Violet"},
+{"id":8,"name":"Egret, snowy","category":"Red"},
+{"id":9,"name":"European beaver","category":"Puce"},
+{"id":10,"name":"Tammar wallaby","category":"Purple"},
+{"id":11,"name":"Cat, toddy","category":"Blue"},
+{"id":12,"name":"Turtle, eastern box","category":"Turquoise"},
+{"id":13,"name":"Little cormorant","category":"Teal"},
+{"id":14,"name":"Swallow (unidentified)","category":"Goldenrod"},
+{"id":15,"name":"Western lowland gorilla","category":"Red"},
+{"id":16,"name":"Great kiskadee","category":"Pink"},
+{"id":17,"name":"Eleven-banded armadillo (unidentified)","category":"Red"},
+{"id":18,"name":"Canada goose","category":"Fuscia"},
+{"id":19,"name":"Kori bustard","category":"Green"},
+{"id":20,"name":"Mountain duck","category":"Goldenrod"}]
+}
